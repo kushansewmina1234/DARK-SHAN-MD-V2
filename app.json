@@ -1,7 +1,7 @@
 {
-    "name": "ＱＵＥＥＮ -ＩＺＵＭＩ - V1 WhatsApp Bot",
+    "name": "DARK SHAN MD V2",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/vajirabot1/QUEEN-IZUMI-MD",
+    "repository": "https://github.com/kushansewmina1234/DARK-SHAN-MD-V2",
     "logo": "https://telegra.ph/file/ba8ea739e63bf28c30b37.jpg",
     "keywords": [
         "nodejs",
@@ -13,11 +13,6 @@
     "env": {
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": "dont want to put session id when you upload cred.json file"
-        },
-        "GIT_TOKEN": {
-            "description": "Put new github token here",
             "required": true,
             "value": ""
         },
